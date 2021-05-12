@@ -1,3 +1,3 @@
-module github.com/martinbro/hello/blob/main/hello.go
+module github.com/martinbro/util/blob/main/util.go
 
 go 1.16
